@@ -1,0 +1,19 @@
+query Restaurants {
+  restaurants {
+    address
+  
+    id
+    name
+   photo {
+    url
+  }
+    menu {
+      ... on Dish {
+      
+        name
+        description
+        price
+      }
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "restaurants": [
+      {
+        "address": "8334 Ocean Lane, San Diego, CA 91353",
+        "offer": "Spend $10, Save $5",
+        "id": "cl94u3t8z6zve0bn7c731zuk3",
+        "name": "Habit Burger",
+        "photo": {
+          "url": "https://media.graphassets.com/MJNoYfcCTe6IeTa1qBHw"
+        },
+        "menu": [
+          {
+            "id": "cl94uea6a755y0an223ba76za",
+            "name": "Teriyaki Burger",
+            "description": "Pineapple on a bun and lettuce",
+            "price": 5.99
+          },
+          {
+            "id": "cl94ug5ia75uv0an2d3jbogej",
+            "name": "Santa Barbara Burger",
+            "description": "Sourdough bread with extra avocados",
+            "price": 8.99
+          }
+        ]
+      },
+      {
+        "address": "39843 Lake St, San Diego, CA 91342",
+        "offer": "BOGO 50% off",
+        "id": "cl94v4qzd7mkz0bn68dkgm4al",
+        "name": "Popeye's Chicken",
+        "photo": {
+          "url": "https://media.graphassets.com/0d7cGfHaQF6YgIy0Sj3u"
+        },
+        "menu": [
+          {
+            "id": "cl94v2w0a7g2x0an2t1ch2avt",
+            "name": "4 Pc Tenders",
+            "description": "Four pieces of crispy chicken tenders ",
+            "price": 11.99
+          },
+          {
+            "id": "cl94v3ktz7h320bn7cu3jwwex",
+            "name": "Mashed Potatoes",
+            "description": "Creamy, delicious mashed potatoes from the Yukon",
+            "price": 4.99
+          },
+          {
+            "id": "cl94v4ipq7gq60an2x1447tnt",
+            "name": "Spicy Chicken Sandwich",
+            "description": "A phat chicken tenderloin between a beautiful brioche bun",
+            "price": 8.99
+          }
+        ]
+      },
+      {
+        "address": "34853 Potato Rd, San Diego, CA 91345",
+        "offer": null,
+        "id": "cl94v9ix47omy0bn6gq6lkwdv",
+        "name": "Panda Express",
+        "photo": {
+          "url": "https://media.graphassets.com/rP0HCCeRwu4PA8JVw59X"
+        },
+        "menu": [
+          {
+            "id": "cl94v74rp7hsy0an2tt4o218v",
+            "name": "Broccoli Beef",
+            "description": "Delicious broccoli and beef stir fried in tasty sauce",
+            "price": 11.99
+          },
+          {
+            "id": "cl94v7qr77nta0bn6zq3wzkbz",
+            "name": "Orange Chicken",
+            "description": "Tangy, sweet orange sauce on top of crispy chicken.",
+            "price": 11.99
+          },
+          {
+            "id": "cl94v8jx67o6y0bn6d0e5m6bw",
+            "name": "Firecracker Shrimp",
+            "description": "Spicy stirfried shrimp glazed with a little heat sauce",
+            "price": 12.99
+          },
+          {
+            "id": "cl94v9cof7iqp0an2c7r27bjx",
+            "name": "Chow Mein",
+            "description": "Vegeterian chow mein with only the best quality vegetables and noodles.",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "address": "82343 Pacific Ave, San Diego, CA 91352",
+        "offer": null,
+        "id": "cl94vg2xm7mgw0bn70d2q7ust",
+        "name": "Olive Garden",
+        "photo": {
+          "url": "https://media.graphassets.com/SQErLbeSdGC07OI6qnr7"
+        },
+        "menu": [
+          {
+            "id": "cl94vd6tr7q9k0bn6qo53eggl",
+            "name": "Chicken Alfredo",
+            "description": "Creamy alfredo sauce made from scratch topped with sliced grilled chicken",
+            "price": 20.99
+          },
+          {
+            "id": "cl94vdyry7liu0bn75ezz1l4e",
+            "name": "Shrimp Carbonara",
+            "description": "Sautéed shrimp and spaghetti tossed in a creamy sauce with bacon and roasted red peppers",
+            "price": 21.99
+          },
+          {
+            "id": "cl94vejrh108m0allgj8zkhrb",
+            "name": "Chicken Scampi",
+            "description": "Chicken sautéed with fresh bell peppers and red onions in a creamy scampi sauce. Served over angel hair pasta.",
+            "price": 20.99
+          },
+          {
+            "id": "cl94vfjm27lk90an2j0gy5y2o",
+            "name": "Fettuccine Alfredo",
+            "description": "Our signature alfredo sauce made fresh in-house every morning over fettuccine",
+            "price": 16.99
+          },
+          {
+            "id": "cl94vfxqe7lq50an2wjxmbquz",
+            "name": "Spaghetti with Meatballs",
+            "description": "Spaghetti and meatballs with your choice of marinara or meat sauce. \n",
+            "price": 17.99
+          }
+        ]
+      },
+      {
+        "address": "83453 Oakville Ln, San Diego, CA 91344",
+        "offer": null,
+        "id": "cl94vmw2f7p8r0bn79sdx6zpe",
+        "name": "Pho House",
+        "photo": {
+          "url": "https://media.graphassets.com/DzAMuXzLTfq3w7fI4lgV"
+        },
+        "menu": [
+          {
+            "id": "cl94vkwbc12t20allozaojmmd",
+            "name": "Pho Beef Ball Soup",
+            "description": "anise and clove broth, rice noodles, pea protein beef, broccoli, saw-leaf herb, onion, bean sprouts, thai basil, jalapeño.",
+            "price": 16.99
+          },
+          {
+            "id": "cl94vl7gv7tnz0bn69i3g3ide",
+            "name": "Lemongrass Fish",
+            "description": "skewered and grilled soy chicken topped with almond sweet sauce and fried onion. with steamed rice, shallot, cucumber, thai chili pickles.",
+            "price": 20.99
+          },
+          {
+            "id": "cl94vls7d13890ally1wlgrez",
+            "name": "Eggrolls",
+            "description": "vegan wrap, jicama-taro veggie filling with greens and vegan fish sauce.",
+            "price": 8.99
+          },
+          {
+            "id": "cl94vm8tb7u770bn6bn2s7c9y",
+            "name": "BBQ Pork Roll",
+            "description": "soy pork, greens, pickled daikon and carrot, brown rice paper wrap, almond-hoisin dip.",
+            "price": 10.99
+          },
+          {
+            "id": "cl94vmsum13nr0all1slr7z22",
+            "name": "Garlic Basil Noodles",
+            "description": "rice noodles, apple sage vegan sausage, garnished with fresh thai basil and natural sriracha.",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "address": "34552 Snickers St, San Diego CA 34097",
+        "offer": null,
+        "id": "cl94vnsgd7uu30bn69mu994ia",
+        "name": "Cheesecake Factory",
+        "photo": {
+          "url": "https://media.graphassets.com/1JuGgkFjQYWdRYKeFunC"
+        },
+        "menu": [
+          {
+            "id": "cl94vafih7k1v0bn7cudwvqyj",
+            "name": "New York Cheesecake",
+            "description": "Traditional ny cheesecake w/ cherry topping",
+            "price": 17.99
+          },
+          {
+            "id": "cl94vgbv8110j0all0xlwr8ow",
+            "name": "Twix Cheesecake",
+            "description": "Chocolate cheesecake mixed with twix, and crushed twix bars on top",
+            "price": 18.99
+          },
+          {
+            "id": "cl94vkf1o12nj0allmgm80w99",
+            "name": "Strawberry Cheescake",
+            "description": "Mixed with strawberry, topped with a strawberry glaze",
+            "price": 17.99
+          },
+          {
+            "id": "cl94vlzi07o4v0an2ijtdrv6d",
+            "name": "Vanilla Milkshake",
+            "description": "Vanilla flavored milkshake, topped with whip cream and a cherry",
+            "price": 5.49
+          },
+          {
+            "id": "cl94vnlb47ur80bn6eso8qpar",
+            "name": "Fries",
+            "description": "Crinkle cut fries, flavored w/ house seasoning and lightly salted",
+            "price": 3.49
+          }
+        ]
+      },
+      {
+        "address": "43589 Gaslamp Dr, San Diego, CA 91235",
+        "offer": "Free fries w/ $20 order",
+        "id": "cl94w0k4x813t0bn6pbr3lwtl",
+        "name": "Greta Boulangerie & Bistro",
+        "photo": {
+          "url": "https://media.graphassets.com/H3qQHrLFT8exRHabwMEt"
+        },
+        "menu": [
+          {
+            "id": "cl94vxi9s7uhy0bn75x61gf5k",
+            "name": "cocktail de crevette",
+            "description": "shrimp, cocktail sauce, horseradish, lemon\n",
+            "price": 33.99
+          },
+          {
+            "id": "cl94vy3ta7uw10bn7vblnfvmy",
+            "name": "terrine de foie gras",
+            "description": "ice wine gelée, sour cherries, toasted petite loaf",
+            "price": 19.99
+          },
+          {
+            "id": "cl94vz9pi80ey0bn69towll7z",
+            "name": "moules frites",
+            "description": "white wine, fine herbs, cream, shallot, toasted baguette, frites",
+            "price": 26.99
+          },
+          {
+            "id": "cl94vzovs7uo10an27ozl7nbr",
+            "name": "macaroni au gratin",
+            "description": "parisian ham, truffle",
+            "price": 14.99
+          },
+          {
+            "id": "cl94w0cjr7vv40bn7xhr8dotl",
+            "name": "gnocchis parisienne",
+            "description": "comté, peas, parsley",
+            "price": 22.99
+          }
+        ]
+      },
+      {
+        "address": "12234 Wicket Rd, San Diego CA 95234",
+        "offer": null,
+        "id": "cl94w5pve83dr0bn6gf1j3cjg",
+        "name": "Sushi Yum",
+        "photo": {
+          "url": "https://media.graphassets.com/QgMZ3ifmQ9WqpBDflXdD"
+        },
+        "menu": [
+          {
+            "id": "cl94vyf897v080bn74x11pyo2",
+            "name": "California Roll",
+            "description": "Crab, avocado, and cucumber.",
+            "price": 5.99
+          },
+          {
+            "id": "cl94w0qsq7vas0an2dz2r2j4x",
+            "name": "Spicy Salmon Crunch Deluxe Roll",
+            "description": "Salmon, spicy mayo, fried panko, cucumber, and avacado.",
+            "price": 6.99
+          },
+          {
+            "id": "cl94w2apw81w80bn618nb0jqj",
+            "name": "Wonton Soup",
+            "description": "Light broth with wontons.",
+            "price": 1.99
+          },
+          {
+            "id": "cl94w5k3h7y8o0bn7w5qlrips",
+            "name": "Udon Noodles",
+            "description": "Dashi broth, served with egg and sliced scallions.",
+            "price": 7.99
+          }
+        ]
+      }
+    ]
+  }
+}
